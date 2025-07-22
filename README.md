@@ -3,7 +3,8 @@
 
 
 
-https://images.app.goo.gl/fLxB5QPPqJcAoR4dA
+<img width="498" height="366" alt="image" src="https://github.com/user-attachments/assets/9365594a-7c9a-4c1c-8c58-12a7e3521470" />
+
 
 
 This repository contains a machine learning project to analyze and predict customer churn using data from SyriaTel.
